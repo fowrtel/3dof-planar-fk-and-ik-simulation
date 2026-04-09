@@ -97,4 +97,4 @@ $$\theta_3 = \phi - \theta_1 - \theta_2$$
 ### Inverse Kinematics
 > Contoh lengan robot mencapai titik target koordinat (ditandai dengan bintang merah).
 
-![Hasil Inverse Kinematics](assets/ik_result.pngd)
+![Hasil Inverse Kinematics](assets/ik_result.png)
